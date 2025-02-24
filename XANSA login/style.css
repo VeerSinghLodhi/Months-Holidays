@@ -1,0 +1,57 @@
+@import url(https://fonts.googleapis.com/css2?family=Anton+SC&family=Archivo+Black&family=Asap+Condensed:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Bangers&family=Bebas+Neue&family=Bungee+Spice&family=Delius+Unicase:wght@400;700&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Goldman:wght@400;700&family=Grand+Hotel&family=Oswald:wght@200..700&family=Quicksand:wght@300..700&family=Righteous&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Zilla+Slab:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap);
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Zilla Slab", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.container-fluid {
+    background-color: #6F42C1;
+}
+
+.main-section {
+    background-color: white;
+}
+
+.logout-button {
+    justify-content: center;
+}
+
+#navbarNav {
+    justify-content: center;
+}
+
+li {
+    padding: 15px;
+}
+
+
+.main-section {
+    background-color: white;
+}
+
+.school-logo {
+    width: 100%;
+}
+
+.side-nav{
+    font-size:20px;
+    font-weight: 500;
+}
+
+.list {
+    list-style-type: none;
+}
+
+header li:hover{
+    text-decoration: underline;
+    color:white;
+    
+}
